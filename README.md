@@ -12,5 +12,5 @@ This repository hosts a static landing page for **ClearFrame Advisory**, publish
 3. Under **Build and deployment**, select **GitHub Actions**
 4. Wait for the deployment to finish
 
-Your site will be available at: 
+Your site will be available at:
 https://<your-username>.github.io/<repository-name>/
